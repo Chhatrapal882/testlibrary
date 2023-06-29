@@ -1,5 +1,5 @@
 import './App.css';
-import Green from './Green';
+import Green from './components/Green';
 
 function App() {
   return (
